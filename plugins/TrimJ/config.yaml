@@ -1,0 +1,12 @@
+name: TrimJ
+id:   TrimJ
+key:  trimj
+author_name: Alfasado Inc.
+author_link: http://alfasado.net/
+version: 0.1
+l10n_class: TrimJ::L10N
+description: <__trans phrase="Modifier trimj_to for Multibyte Character.">
+tags:
+    modifier:
+        trimj_to: $trimj::TrimJ::Tags::_filter_trimj_to
+
